@@ -5,11 +5,12 @@
 
 ### 🛠 Tech Stacks
 - **Language**: Java
-- **Backend**: Spring Boot, Spring MVC, Spring Security, JPA
-- **Database**: MySQL, PostgreSQL
-- **Tools**: Git, GitHub, IntelliJ, DBeaver
+- **Backend**: Spring Boot, Spring MVC, JPA, Lombok, REST API
+- **Database**: MySQL
+- **Cloud**: AWS
+- **Tools**: Git, GitHub, IntelliJ, DBeaver, Postman, Docker
 
 ---
 
-- ### 📫 Contact
+### 📫 Contact
 - **Email**: ljaeseok02@gmail.com
